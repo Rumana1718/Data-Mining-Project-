@@ -1,2 +1,2 @@
 # Data-Mining-Project-
-Quality Job prediction for a student  using Weka 
+Quality Job prediction for a Student  using Weka 
